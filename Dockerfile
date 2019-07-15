@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Jeremy Coatelen <dash0@protonmail.com>
+MAINTAINER JihyeShin <tlsjh082@naver.com>
 
 # Pick up some TF dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
